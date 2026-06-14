@@ -145,3 +145,7 @@ GitHub:
 
 @mafzalkalwardev
 
+## Screenshots
+
+![excel-state-extractor-formula dashboard](docs/screenshots/app.png)
+
